@@ -1,0 +1,8 @@
+.header {
+  background-color: hotpink;
+  color: rebeccapurple;
+  border: 2px solid goldenrod;
+  margin: 30px;
+  text-align: center;
+  font-weight: bold;
+}

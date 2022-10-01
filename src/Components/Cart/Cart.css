@@ -1,0 +1,8 @@
+.cart {
+  position: fixed;
+  color: hotpink;
+  margin: 20px;
+  border: 2px solid grey;
+  padding: 10px;
+  border-radius: 5px;
+}

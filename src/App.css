@@ -1,0 +1,7 @@
+.players-container {
+  display: flex;
+}
+
+.player-info {
+  width: 70%;
+}
